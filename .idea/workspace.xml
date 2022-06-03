@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deeeddb1-dbed-4087-bdcd-c0816c18eb49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-cases" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,21 +28,28 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="29vxKHKPhz8R2VTV4aVxdZV63t6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/kevinschool/IdeaProjects/BootCampProject/driver/windows",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "last_opened_file_path": "C:/Users/PIIT/eclipse-workspace-pull/Apr2022-web-automation-framework"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -54,6 +58,119 @@
       <recent name="$PROJECT_DIR$/driver/mac" />
       <recent name="$PROJECT_DIR$/Driver" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PIIT\DataMisfits\DataMisfitsBootCampProject\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/PIIT/DataMisfits/DataMisfitsBootCampProject/src/test/resources/carsaver-runner.xml">
+    <configuration name="C:/Users/PIIT/DataMisfits/DataMisfitsBootCampProject/src/test/resources/carsaver-runner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataMisfitsBootCampProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/carsaver-runner.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/PIIT/DataMisfits/DataMisfitsBootCampProject/src/test/resources/target-runner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataMisfitsBootCampProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/target-runner.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterSearchResult.searchFilter" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataMisfitsBootCampProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apps.carsaver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apps.carsaver" />
+      <option name="MAIN_CLASS_NAME" value="apps.carsaver.FilterSearchResult" />
+      <option name="METHOD_NAME" value="searchFilter" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Target.validLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataMisfitsBootCampProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="carsaver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="carsaver" />
+      <option name="MAIN_CLASS_NAME" value="carsaver.Target" />
+      <option name="METHOD_NAME" value="validLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testing" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataMisfitsBootCampProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="carsaver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="carsaver" />
+      <option name="MAIN_CLASS_NAME" value="carsaver.Testing" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.FilterSearchResult.searchFilter" />
+      <item itemvalue="TestNG.C:/Users/PIIT/DataMisfits/DataMisfitsBootCampProject/src/test/resources/target-runner.xml" />
+      <item itemvalue="TestNG.Target.validLogin" />
+      <item itemvalue="TestNG.Testing" />
+      <item itemvalue="TestNG.C:/Users/PIIT/DataMisfits/DataMisfitsBootCampProject/src/test/resources/carsaver-runner.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/PIIT/DataMisfits/DataMisfitsBootCampProject/src/test/resources/carsaver-runner.xml" />
+        <item itemvalue="TestNG.FilterSearchResult.searchFilter" />
+        <item itemvalue="TestNG.Testing" />
+        <item itemvalue="TestNG.C:/Users/PIIT/DataMisfits/DataMisfitsBootCampProject/src/test/resources/target-runner.xml" />
+        <item itemvalue="TestNG.Target.validLogin" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -76,5 +193,23 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/base/CommonAPI.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
