@@ -5,32 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deeeddb1-dbed-4087-bdcd-c0816c18eb49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/carsaver/FilterSearchResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/carsaver/HeaderFunctionalities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/carsaver/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/carsaver/SearchNewCarBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/carsaver/SearchUsedCarBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/carsaver/Testing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Car Saver smoke/sign-in invalid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Car Saver smoke/sign-in invalid.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Car Saver smoke/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-carsaver.LogInInvalidCred.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-carsaver.LogInValidCred.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-carsaver.SearchNewCar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-carsaver.SearchUsedCar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-carsaver.Testing.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Car Saver smoke/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Car Saver smoke/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Car Saver smoke/sign-in invalid.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-cases" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/driver/mac/chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/carsaver-runner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/carsaver-runner.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,15 +43,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/PIIT/DataMisfits/DataMisfitsBootCampProject&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/PIIT/eclipse-workspace-pull/Apr2022-web-automation-framework"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/driver/windows" />

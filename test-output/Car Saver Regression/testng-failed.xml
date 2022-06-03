@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Car Saver Regression]">
+  <parameter name="os" value="windows"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="url" value="https://www.carsaver.com"/>
+  <test thread-count="5" name="sign-in authentication(failed)">
+    <classes>
+      <class name="carsaver.LogInInvalidCred">
+        <methods>
+          <include name="invalidLogin"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- carsaver.LogInInvalidCred -->
+    </classes>
+  </test> <!-- sign-in authentication(failed) -->
+</suite> <!-- Failed suite [Car Saver Regression] -->
