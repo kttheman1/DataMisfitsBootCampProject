@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deeeddb1-dbed-4087-bdcd-c0816c18eb49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/costo/AddToCartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/costo/CreateAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/costo/EditAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/costo/InvalidEmailLogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/costo/InvalidPasswordLogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/costo/InvalidShopCardPurchaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/costo/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/costo/ShopCardBalanceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/gaps/AddToCartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/gaps/CheckoutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/gaps/CreateAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/gaps/GiftCardBalanceCheckTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/gaps/GiftCardPurchaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/gaps/InvalidEmailLogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/gaps/LogInTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/gaps/OrdersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apps/gaps/SearchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/costco-runner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/costco-runner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCases-Dilruba/Test _cases_costco.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testCases-Dilruba/Test _cases_costco.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCases-Dilruba/Test _cases_gaps.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testCases-Dilruba/Test _cases_gaps.xlsx" afterDir="false" />
-    </list>
+    <list default="true" id="deeeddb1-dbed-4087-bdcd-c0816c18eb49" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
